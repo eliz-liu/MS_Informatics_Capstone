@@ -6,3 +6,5 @@ visualization and simulation done in python!
 check out Code.ipynb for how I did it
 
 check out the pdfs if you want to read the results (it's a lot of reading tho).
+
+edit: Code.ipynb is not showing up correctly so I added notebook_code.txt if you want a preview.
